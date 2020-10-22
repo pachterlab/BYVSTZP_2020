@@ -1,6 +1,12 @@
 *.tar.gz
 *.gz
 *.h5ad
+*.idx
+*.gtf
+*.fa
+*.fai
+*.pickle
+
 !reference/transcriptome.fa.gz
 
 # boilerplate from GitHub
