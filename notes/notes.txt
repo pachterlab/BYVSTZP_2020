@@ -1,0 +1,17 @@
+The following files are single paired and lack an R2
+
+for mop_SMARTseq/
+LS-15395_S41_E1-50
+LS-15395_S42_E1-50
+LS-15395_S43_E1-50
+LS-15395_S44_E1-50
+LS-15395_S45_E1-50
+LS-15395_S46_E1-50
+
+[quant] processed 15,229,289,828 reads, 12,805,860,123 reads pseudoaligned
+[quant] Running EM algorithm for each cell .. done
+
+
+real    400m26.239s
+user    4685m50.508s
+sys     60m27.166s

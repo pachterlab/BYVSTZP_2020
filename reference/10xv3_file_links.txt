@@ -1,0 +1,12 @@
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_A01_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_B01_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_C01_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_D01_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_E01_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_F01_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_G12_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_181211_01_H12_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_190430_01_A08_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_190430_01_B08_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_190430_01_F08_S01_L003.fastq.tar
+http://data.nemoarchive.org/biccn/lab/zeng/transcriptome/scell/10X/raw/MOp_v3/L8TX_190430_01_G08_S01_L003.fastq.tar

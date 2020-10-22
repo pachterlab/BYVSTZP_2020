@@ -1,0 +1,63 @@
+"cluster_id","cluster_label","subclass_label","class_label","cluster_color","size"
+1,"Lamp5 Egln3_1","Lamp5","GABAergic","#FF88AD",31
+2,"Lamp5 Egln3_2","Lamp5","GABAergic","#FF90AE",56
+3,"Lamp5 Pdlim5","Lamp5","GABAergic","#FF7290",82
+4,"Lamp5 Slc35d3","Lamp5","GABAergic","#FFA388",194
+5,"Lamp5 Lhx6","Lamp5","GABAergic","#C77963",14
+6,"Vip Serpinf1","Vip","GABAergic","#A720FF",50
+7,"Sncg","Sncg","GABAergic","#9900B3",77
+8,"Sncg Slc17a8","Sncg","GABAergic","#9925C7",7
+9,"Vip Igfbp6","Vip","GABAergic","#7779BF",102
+10,"Vip Chat_1","Vip","GABAergic","#FF00FF",33
+11,"Vip Chat_2","Vip","GABAergic","#FF09FF",113
+12,"Vip Chat_3","Vip","GABAergic","#FF0CFF",87
+13,"Vip Lmo1","Vip","GABAergic","#FF1EFF",26
+14,"Vip Htr1f","Vip","GABAergic","#FF4DC1",53
+15,"Vip C1ql1","Vip","GABAergic","#BD3D9A",67
+16,"Vip Gpc3","Vip","GABAergic","#B94DA7",43
+17,"Vip Crispld2","Vip","GABAergic","#992E81",85
+18,"Sst Chodl","Sst","GABAergic","#FFFF00",17
+19,"Sst Myh8_1","Sst","GABAergic","#FF7F2C",136
+20,"Sst Myh8_2","Sst","GABAergic","#D27A2A",55
+21,"Sst Etv1","Sst","GABAergic","#BF880D",79
+22,"Sst C1ql3","Sst","GABAergic","#804600",58
+23,"Sst Crhr2_1","Sst","GABAergic","#B0993C",37
+24,"Sst Crhr2_2","Sst","GABAergic","#8E9050",47
+25,"Pvalb Reln","Pvalb","GABAergic","#BC2D71",292
+26,"Pvalb Th","Pvalb","GABAergic","#A73F66",34
+27,"Pvalb Calb1","Pvalb","GABAergic","#A13662",159
+28,"Pvalb Gpr149","Pvalb","GABAergic","#8B3975",45
+29,"Pvalb Vipr2","Pvalb","GABAergic","#FF197F",13
+30,"L2/3 IT Cdh13 Sla","L2/3 IT","Glutamatergic","#B8FFCA",124
+31,"L2/3 IT S100a6","L2/3 IT","Glutamatergic","#81B389",231
+32,"L2/3 IT Macc1","L2/3 IT","Glutamatergic","#ADB6A6",128
+33,"L5 IT Rspo1","L5 IT","Glutamatergic","#3CBC78",624
+34,"L5 IT Rspo2","L5 IT","Glutamatergic","#3CBC45",256
+35,"L5 IT Tcap_1","L5 IT","Glutamatergic","#5DDB65",226
+36,"L5 IT Tcap_2","L5 IT","Glutamatergic","#4ECB54",120
+37,"L5 IT S100b_1","L5 IT","Glutamatergic","#00CF1F",251
+38,"L5 IT S100b_2","L5 IT","Glutamatergic","#2F8C4D",83
+39,"L5 IT Pld5","L5 IT","Glutamatergic","#40BC3C",12
+40,"L6 IT Sulf_1","L6 IT","Glutamatergic","#5A983D",68
+41,"L6 IT Sulf_2","L6 IT","Glutamatergic","#3CBCAC",56
+42,"L6 IT Sulf_3","L6 IT","Glutamatergic","#3CBC92",271
+43,"L6 IT Car3","L6 IT Car3","Glutamatergic","#5100FF",5
+44,"L5 ET","L5 ET","Glutamatergic","#53A367",12
+45,"L5 NP Slc17a8","L5/6 NP","Glutamatergic","#3C78BC",138
+46,"L6 NP Trh","L5/6 NP","Glutamatergic","#47867A",72
+47,"L6 CT Gpr139","L6 CT","Glutamatergic","#168577",21
+48,"L6 CT Grp_1","L6 CT","Glutamatergic","#197A6E",781
+49,"L6 CT Grp_2","L6 CT","Glutamatergic","#358459",24
+50,"L6 CT Nxph2_1","L6 CT","Glutamatergic","#1AAB99",68
+51,"L6 CT Nxph2_2","L6 CT","Glutamatergic","#3B9E99",10
+52,"L6b Rprm","L6b","Glutamatergic","#3CBC99",144
+53,"L6b Ror1_1","L6b","Glutamatergic","#09564C",115
+54,"L6b Ror1_2","L6b","Glutamatergic","#1F7C70",130
+55,"L6b Shisa6","L6b","Glutamatergic","#3A646A",142
+56,"L6b Kcnip1_1","L6b","Glutamatergic","#271F7C",32
+57,"L6b Kcnip1_2","L6b","Glutamatergic","#335280",8
+58,"Astro Aqp4","Astro","Non-Neuronal","#7C2D1F",10
+59,"VLMC","VLMC","Non-Neuronal","#74996B",6
+60,"Endo Slc38a5","Endo","Non-Neuronal","#810E3C",7
+61,"SMC Aoc3","SMC","Non-Neuronal","#807059",21
+62,"L5 IT Tcap_low","Low Quality","Low Quality","#847660",12
