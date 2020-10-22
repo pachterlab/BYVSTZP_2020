@@ -1,5 +1,6 @@
 *.tar.gz
 *.gz
+*.tar
 *.h5ad
 *.idx
 *.gtf
