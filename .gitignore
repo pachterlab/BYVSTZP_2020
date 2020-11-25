@@ -9,6 +9,7 @@
 *.pickle
 data/
 dexpress/
+trackfig/
 
 !reference/transcriptome.fa.gz
 
