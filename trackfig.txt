@@ -80,3 +80,8 @@ November 23, 20 19:48:18 UTC	../../figures/split_cluster_App-205.png	/home/sina/
 November 23, 20 19:48:50 UTC	../../figures/split_cluster_tsne_nca_App-205.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
 November 23, 20 19:55:17 UTC	../../figures/subclass_sex_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex.ipynb
 November 23, 20 19:56:11 UTC	../../figures/cluster_sex_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex.ipynb
+November 26, 20 00:23:22 UTC	../../figures/merfish-updated_subclass_locations.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 26, 20 00:30:27 UTC	../../figures/merfish-updated_subclass_locations.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 26, 20 00:34:11 UTC	../../figures/merfish-updated_cluster_loc_Pvalb.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish.ipynb
+November 26, 20 05:15:51 UTC	../../figures/merfish-updated_subclass_loc_spatial_atlas.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 26, 20 05:31:20 UTC	../../figures/merfish-updated_subclass_loc_spatial_atlas.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
