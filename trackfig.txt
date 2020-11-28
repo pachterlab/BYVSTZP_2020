@@ -96,3 +96,4 @@ November 27, 20 21:26:03 UTC	../../tables/unordered/bad_gene_subclass_DE-GABA.cs
 November 27, 20 23:16:42 UTC	../../figures/false_positive_violin_subclass_Grin2b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
 November 27, 20 23:17:22 UTC	../../figures/false_negative_violin_subclass_Grin2b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
 November 27, 20 23:18:17 UTC	../../figures/false_positive_violin_subclass_Atp2b4.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
+November 28, 20 01:36:45 UTC	../../figures/merfish-updated_subclass_location_grid.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
