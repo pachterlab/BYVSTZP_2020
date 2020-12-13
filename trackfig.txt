@@ -97,3 +97,150 @@ November 27, 20 23:16:42 UTC	../../figures/false_positive_violin_subclass_Grin2b
 November 27, 20 23:17:22 UTC	../../figures/false_negative_violin_subclass_Grin2b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
 November 27, 20 23:18:17 UTC	../../figures/false_positive_violin_subclass_Atp2b4.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
 November 28, 20 01:36:45 UTC	../../figures/merfish-updated_subclass_location_grid.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:31:28 UTC	../../figures/merfish_subclass_loc/L5 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:32:24 UTC	../../figures/merfish_subclass_loc/L5 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:32:25 UTC	../../figures/merfish_subclass_loc/L5/6 NP.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:03 UTC	../../figures/merfish_subclass_loc/L5 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:04 UTC	../../figures/merfish_subclass_loc/L5-6 NP.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:04 UTC	../../figures/merfish_subclass_loc/L5 PT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:05 UTC	../../figures/merfish_subclass_loc/L2-3 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:06 UTC	../../figures/merfish_subclass_loc/L6b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:06 UTC	../../figures/merfish_subclass_loc/L6 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:07 UTC	../../figures/merfish_subclass_loc/L6 CT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:07 UTC	../../figures/merfish_subclass_loc/L6 IT Car3.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:08 UTC	../../figures/merfish_subclass_loc/Lamp5.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:09 UTC	../../figures/merfish_subclass_loc/Sncg.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:09 UTC	../../figures/merfish_subclass_loc/Vip.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:10 UTC	../../figures/merfish_subclass_loc/Sst.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:11 UTC	../../figures/merfish_subclass_loc/Pvalb.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 02:39:11 UTC	../../figures/merfish_subclass_loc/Endo.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:55 UTC	../../figures/merfish_subclass_loc/Astro.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:55 UTC	../../figures/merfish_subclass_loc/Endo.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:56 UTC	../../figures/merfish_subclass_loc/L2-3 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:57 UTC	../../figures/merfish_subclass_loc/L4-5 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:57 UTC	../../figures/merfish_subclass_loc/L5 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:58 UTC	../../figures/merfish_subclass_loc/L5 PT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:58 UTC	../../figures/merfish_subclass_loc/L5-6 NP.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:32:59 UTC	../../figures/merfish_subclass_loc/L6 CT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:00 UTC	../../figures/merfish_subclass_loc/L6 IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:00 UTC	../../figures/merfish_subclass_loc/L6 IT Car3.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:01 UTC	../../figures/merfish_subclass_loc/L6b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:02 UTC	../../figures/merfish_subclass_loc/Lamp5.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:02 UTC	../../figures/merfish_subclass_loc/Microglia.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:03 UTC	../../figures/merfish_subclass_loc/OPC.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:03 UTC	../../figures/merfish_subclass_loc/Oligodendrocytes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:04 UTC	../../figures/merfish_subclass_loc/PVM.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:05 UTC	../../figures/merfish_subclass_loc/Pericytes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:05 UTC	../../figures/merfish_subclass_loc/Pvalb.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:06 UTC	../../figures/merfish_subclass_loc/SMC.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:07 UTC	../../figures/merfish_subclass_loc/Sncg.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:07 UTC	../../figures/merfish_subclass_loc/Sst.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:08 UTC	../../figures/merfish_subclass_loc/Sst_Chodl.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:09 UTC	../../figures/merfish_subclass_loc/VLMC.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:09 UTC	../../figures/merfish_subclass_loc/Vip.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 03:33:10 UTC	../../figures/merfish_subclass_loc/other.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_loc.ipynb
+November 30, 20 21:59:11 UTC	../../figures/10x_batch_sex_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+November 30, 20 21:59:31 UTC	../../figures/male_female_10x_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+November 30, 20 22:00:06 UTC	../../figures/male_female_isoform_tsne_nca.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex.ipynb
+December 01, 20 22:38:19 UTC	../../figures/10x_smartseq_celltypes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_smartseq_cluster_cmp.ipynb
+December 01, 20 23:56:01 UTC	../../figures/10x_smartseq_celltypes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_smartseq_cluster_cmp.ipynb
+December 01, 20 23:57:26 UTC	../../figures/10x_smartseq_celltypes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_smartseq_cluster_cmp.ipynb
+December 01, 20 23:58:20 UTC	../../figures/10x_smartseq_celltypes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_smartseq_cluster_cmp.ipynb
+December 02, 20 00:03:32 UTC	../../figures/merfish-updated_smartseq_subclass_correlation_size.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_smartseq_gene_subclass.ipynb
+December 02, 20 00:04:37 UTC	../../figures/merfish-updated_smartseq_subclass_correlation_size.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_smartseq_gene_subclass.ipynb
+December 02, 20 00:05:18 UTC	../../figures/merfish-updated_smartseq_subclass_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_smartseq_gene_subclass.ipynb
+December 02, 20 04:13:45 UTC	../../figures/merfish-updated_smartseq_subclass_correlation_size.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_smartseq_gene_subclass.ipynb
+December 02, 20 04:13:51 UTC	../../figures/merfish-updated_smartseq_subclass_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_smartseq_gene_subclass.ipynb
+December 02, 20 04:14:41 UTC	../../figures/10x_smartseq_gene_subclass_correlation_size.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_gene.ipynb
+December 02, 20 04:14:55 UTC	../../figures/10x_smartseq_gene_subclass_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_gene.ipynb
+December 02, 20 04:17:18 UTC	../../figures/10x_smartseq_gene_cluster_correlation.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_gene.ipynb
+December 02, 20 04:17:36 UTC	../../figures/10x_smartseq_gene_cluster_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_gene.ipynb
+December 02, 20 04:19:01 UTC	../../figures/merfish-updated_10x_gene_subclass_size.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_v_10x.ipynb
+December 02, 20 04:19:14 UTC	../../figures/merfish-updated_10x_gene_subclass_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_merfish_v_10x.ipynb
+December 02, 20 07:03:43 UTC	../../figures/merfish-updated_v_all_correlation.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_v_all_correlation.ipynb
+December 02, 20 07:41:25 UTC	../../figures/10x_smartseq_isoform_subclass_correlation_size.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_isoform.ipynb
+December 02, 20 07:42:07 UTC	../../figures/10x_smartseq_isoform_subclass_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_isoform.ipynb
+December 02, 20 07:51:25 UTC	../../figures/10x_smartseq_isoform_cluster_correlation.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_isoform.ipynb
+December 02, 20 07:51:37 UTC	../../figures/10x_smartseq_isoform_cluster_correlation.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_isoform.ipynb
+December 02, 20 07:52:06 UTC	../../figures/10x_smartseq_isoform_cluster_correlation_scatter.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_smartseq_10x_isoform.ipynb
+December 02, 20 08:08:53 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 02, 20 08:12:33 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 02, 20 08:16:18 UTC	../../figures/male_female_isoform_tsne_nca.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_smartseq.ipynb
+December 02, 20 08:30:11 UTC	../../figures/subclass_sex_violin_L5-IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 02, 20 08:33:28 UTC	../../figures/smartseq_cluster_sex_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_smartseq.ipynb
+December 02, 20 08:34:55 UTC	../../figures/subclass_sex_violin_all_cells.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 02, 20 08:38:43 UTC	../../figures/smartseq_cluster_sex_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_smartseq.ipynb
+December 02, 20 08:50:53 UTC	../../figures/subclass_sex_violin_L5-IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 02, 20 08:50:59 UTC	../../figures/subclass_sex_violin_all_cells.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 02, 20 22:38:34 UTC	../../figures/merfish_single_slice_layer_depth.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 02, 20 23:06:29 UTC	../../figures/merfish_subclass_depth_regression_Tubb2a-201.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 02, 20 23:07:41 UTC	../../figures/merfish_subclass_depth_regression_Tubb2a-201.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 03, 20 00:06:14 UTC	../../figures/merfish_subclass_depth_regression_all_points_volcano.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 03, 20 00:06:26 UTC	../../figures/merfish_subclass_depth_regression_all_points_volcano.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 03, 20 00:06:39 UTC	../../figures/merfish_subclass_depth_regression_all_points_volcano.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 03, 20 00:10:45 UTC	../../figures/merfish_subclass_depth_regression_Tubb2a-201.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 03, 20 04:33:16 UTC	../../tables/unordered/isoform_depth_DE.csv	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 03, 20 04:38:53 UTC	../../tables/unordered/sex_isoform_subclass_DE.csv	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 03, 20 04:55:02 UTC	../../figures/subclass_sex_violin_L5-IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 03, 20 04:55:07 UTC	../../figures/subclass_sex_violin_L5-IT.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 03, 20 04:55:17 UTC	../../figures/subclass_sex_violin_all_cells.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 03, 20 09:52:31 UTC	../../figures/10x_male_female_gene_tsne-BATCH.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_tsne.ipynb
+December 03, 20 09:54:50 UTC	../../figures/10x_male_female_gene_tsne-BATCH.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_tsne.ipynb
+December 03, 20 09:59:03 UTC	../../figures/date_10x_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 09:59:52 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 10:07:20 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 10:11:51 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 10:19:09 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 10:28:48 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 10:33:08 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 03, 20 10:41:52 UTC	../../figures/BATCH-10x_subclass_tsne_pca.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_tsne.ipynb
+December 03, 20 20:10:00 UTC	../../figures/BATCH-10x_subclass_tsne_pca.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_tsne.ipynb
+December 03, 20 20:10:04 UTC	../../figures/10x_male_female_gene_tsne-BATCH.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_tsne.ipynb
+December 05, 20 01:26:57 UTC	../../figures/10x_batch_effect.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_batch_effect.ipynb
+December 05, 20 01:32:29 UTC	../../figures/10x_cluster_batch_effect.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_batch_effect_clusters.ipynb
+December 05, 20 01:33:20 UTC	../../figures/10x_subclass_batch_effect.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_batch_effect_clusters.ipynb
+December 06, 20 19:36:27 UTC	../../figures/merfish_subclass_sample_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_tsne.ipynb
+December 06, 20 19:37:14 UTC	../../figures/sample_merfish_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_tsne.ipynb
+December 06, 20 19:40:19 UTC	../../figures/merfish_subclass_sample_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_tsne.ipynb
+December 06, 20 19:40:28 UTC	../../figures/merfish_subclass_sample_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_tsne.ipynb
+December 06, 20 19:41:19 UTC	../../figures/merfish_cluster_sample_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_tsne.ipynb
+December 06, 20 19:45:11 UTC	../../figures/sample_merfish_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_tsne.ipynb
+December 06, 20 20:05:34 UTC	../../figures/date_10x_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 06, 20 20:07:26 UTC	../../figures/10x_cluster_date_distribution.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 06, 20 20:36:10 UTC	../../figures/sex_distribution_10x_smartseq_cmp.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/Untitled1.ipynb
+December 06, 20 20:36:18 UTC	../../figures/sex_distribution_10x_smartseq_cmp.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/Untitled1.ipynb
+December 06, 20 20:36:24 UTC	../../figures/sex_distribution_10x_smartseq_cmp.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/Untitled1.ipynb
+December 06, 20 20:36:41 UTC	../../figures/subclass_distribution_10x_smartseq_cmp.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/Untitled1.ipynb
+December 07, 20 05:12:06 UTC	../../figures/kmeans_split_all_clusters.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
+December 07, 20 05:39:31 UTC	../../figures/split_cluster_volcano_L6-CT-Grp_1.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
+December 07, 20 05:39:40 UTC	../../figures/split_cluster_effect_size_L6-CT-Grp_1.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
+December 07, 20 05:39:53 UTC	../../figures/split_cluster_effect_size_L6-CT-Grp_1.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
+December 07, 20 05:40:41 UTC	../../figures/split_cluster_App-205.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
+December 07, 20 05:40:57 UTC	../../figures/split_cluster_tsne_nca_App-205.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-split_cluster_in_two.ipynb
+December 07, 20 20:24:11 UTC	../../figures/10x_smartseq_celltypes.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-cmp_identified_clusters_10x_smartseq.ipynb
+December 07, 20 20:53:07 UTC	../../figures/isoform_subclass_tsne_nca.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-basic_plots.ipynb
+December 07, 20 21:31:54 UTC	../../figures/male_female_isoform_tsne_nca.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_smartseq.ipynb
+December 07, 20 23:04:04 UTC	../../figures/smartseq_gene_upset_sex.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_smartseq_gene_subclass_DE.ipynb
+December 07, 20 23:05:21 UTC	../../figures/smartseq_isoform_upset_sex.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_isoform_subclass_DE.ipynb
+December 07, 20 23:05:55 UTC	../../figures/10x_gene_upset_sex.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x_gene_subclass_DE.ipynb
+December 08, 20 05:39:57 UTC	../../figures/spatial_isoform_atlas_heatmap.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-spatial_isoform_atlas.ipynb
+December 08, 20 05:40:17 UTC	../../figures/spatial_isoform_atlas.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-spatial_isoform_atlas.ipynb
+December 08, 20 05:44:10 UTC	../../figures/isoform_atlas_violin.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-isoform_atlas.ipynb
+December 08, 20 05:44:30 UTC	../../figures/isoform_atlas_heatmap.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-isoform_atlas.ipynb
+December 08, 20 06:05:57 UTC	../../figures/isoform_atlas_violin.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-isoform_atlas.ipynb
+December 08, 20 06:06:29 UTC	../../figures/isoform_atlas_heatmap.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-isoform_atlas.ipynb
+December 08, 20 06:49:21 UTC	../../figures/false_positive_violin_subclass_Atp2b4.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
+December 08, 20 06:50:22 UTC	../../figures/false_negative_violin_subclass_Grin2b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
+December 08, 20 06:50:51 UTC	../../figures/false_negative_violin_subclass_Grin2b.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
+December 08, 20 06:51:09 UTC	../../figures/false_positive_violin_subclass_Atp2b4.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-EM_v_naive_gene.ipynb
+December 08, 20 06:52:50 UTC	../../figures/smartseq_reads_per_cluster_hist.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-reads_per_cluster.ipynb
+December 08, 20 06:52:56 UTC	../../figures/smartseq_reads_per_cluster_hist.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-reads_per_cluster.ipynb
+December 08, 20 07:17:58 UTC	../../figures/male_female_10x_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 08, 20 07:18:51 UTC	../../figures/male_female_10x_gene_tsne.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-sex_10x.ipynb
+December 08, 20 07:45:08 UTC	../../figures/merfish_subclass_depth_regression_all_points_volcano.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 08, 20 08:00:23 UTC	../../figures/merfish_subclass_depth_regression_Atp6ap2-201.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 08, 20 08:02:01 UTC	../../figures/merfish_subclass_depth_regression_Atp6ap2-201.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-merfish_subclass_regression.ipynb
+December 10, 20 21:46:39 UTC	../../figures/tss_DE_isoform_violin_Rtn1.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-tss_DE-POST.ipynb
+December 10, 20 21:46:45 UTC	../../figures/tss_DE_tss_violin_Rtn1.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-tss_DE-POST.ipynb
+December 10, 20 22:08:45 UTC	../../tables/unordered/tss_isoform_DE.csv	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-tss_DE-POST.ipynb
+December 11, 20 20:34:22 UTC	../../figures/10x_male_female_gene_tsne-BATCH.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-10x_tsne.ipynb
