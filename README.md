@@ -10,7 +10,6 @@ The repo is structured in the following way:
 │   ├── merfish
 │   ├── notebook
 │   └── SMARTseq
-├── dexpress
 ├── figures
 │   ├── archive
 │   └── merfish_subclass_loc
