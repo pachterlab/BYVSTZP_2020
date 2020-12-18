@@ -263,3 +263,7 @@ December 13, 20 01:39:23 UTC	../../tables/unordered/subclass_DE_isoform_only-GAB
 December 13, 20 01:39:50 UTC	../../tables/unordered/subclass_DE-GABA.csv	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-subclass_DE-GABA.ipynb
 December 13, 20 22:36:55 UTC	../../figures/cluster_DE_violin_Dync1i1.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-all_clusters_DE.ipynb
 December 13, 20 22:52:33 UTC	../../figures/cluster_DE_violin_Stxbp2.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-all_clusters_DE.ipynb
+December 18, 20 06:52:34 UTC	../../figures/spatial_isoform_atlas.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-spatial_isoform_atlas.ipynb
+December 18, 20 06:54:39 UTC	../../figures/isoform_atlas_violin.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-isoform_atlas.ipynb
+December 18, 20 06:56:19 UTC	../../figures/spatial_isoform_atlas.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-spatial_isoform_atlas.ipynb
+December 18, 20 06:56:20 UTC	../../figures/isoform_atlas_violin.png	/home/sina/projects/mop/BYVSTZP_2020/analysis/notebooks/final-isoform_atlas.ipynb
